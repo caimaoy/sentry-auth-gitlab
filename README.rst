@@ -35,7 +35,7 @@ Enter the **Callback URL** as the prefix to your Sentry installation:
     http(s?)://sentry.example.com/auth/sso/
 
 
-Once done, grab your API keys and drop them in your ``sentry.conf.py:
+Once done, grab your API keys and drop them in your ``sentry.conf.py``:
 
 .. code-block:: python
 
